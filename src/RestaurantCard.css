@@ -1,0 +1,12 @@
+.res-card{
+    width: 200px;
+    
+    background-color: #d3d3d3;
+    border: 1px solid black;
+    padding-block: 5px;
+}
+
+.cardfood{
+    width: 190px;
+    height: 150px;
+}
