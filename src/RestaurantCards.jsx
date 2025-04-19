@@ -2,7 +2,6 @@ import React from 'react'
 import './RestaurantCard.css'
 
 const RestaurantCards = ({ resData }) => {
-  console.log(resData); // Check the structure of resData
   
   return (
     <div className='res-card'>

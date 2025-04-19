@@ -13,3 +13,9 @@
     row-gap: 20px;
 }
 
+.btn-top{
+    margin-inline-start: 20px;
+    background-color: orangered;
+    color: aliceblue;
+}
+

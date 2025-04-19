@@ -1,0 +1,12 @@
+.shimmer-cards{
+    width: 200px;
+    height: 400px;
+    background-color: #d3d3d3;
+    border: 1px solid black;
+    padding-block: 5px;
+}
+
+.shimmer-container{
+    display: flex;
+    gap: 30px;
+}
